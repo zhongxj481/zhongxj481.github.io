@@ -1,0 +1,50 @@
+site_name: 无人在意的角落
+
+nav:
+  - 首页: index.md
+  - 2025:
+    - 9月: 2025/september.md
+  - hobby:
+    - anime: hobby/anime.md
+    - beauty: hobby/beauty.md
+
+
+theme:
+  name: material
+  theme:
+  icon:
+    logo: material/github
+  features:
+
+  palette:
+    - scheme: default
+      primary: teal
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  language: zh
+
+
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - def_list
+  - admonition
+  - abbr
+  - md_in_html
+  - pymdownx.blocks.caption
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
