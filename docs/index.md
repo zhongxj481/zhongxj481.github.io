@@ -14,4 +14,18 @@ icon: material/emoticon-happy
 /// caption
 ///
 
+---
+![Image title](https://img5.qy0.ru/data/3195/12/04.jpg){ width="652",height="503" }
+/// caption
+///
+
+---
+![Image title](https://img5.qy0.ru/data/3194/12/0010.jpg){ width="652",height="503" }
+/// caption
+///
+
+---
+![Image title](https://img5.qy0.ru/data/3161/78/06_wlpo.jpg){ width="652",height="433" }
+/// caption
+///
 
