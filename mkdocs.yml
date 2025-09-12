@@ -19,7 +19,7 @@ theme:
     #- header.autohide
     #- navigation.tabs
     #- navigation.sections
-    - navigation.expand
+    #- navigation.expand
     - navigation.path
 
   palette:
