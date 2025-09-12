@@ -3,11 +3,12 @@ site_rul: https://blog.19970704.xyz/
 
 nav:
   - 晚安: index.md
-  - 2025: 
-    - 9月: 2025/september.md
   - hobby:
     - anime: hobby/anime.md
     - beauty: hobby/beauty.md
+  - 2025: 
+    - 9月: 2025/september.md
+  
 
 
 theme:
