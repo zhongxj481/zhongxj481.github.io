@@ -1,8 +1,8 @@
 site_name: 无人在意的角落
 
 nav:
-  - 首页: index.md
-  - 2025:
+  - 晚安: index.md
+  - 2025: 
     - 9月: 2025/september.md
   - hobby:
     - anime: hobby/anime.md
@@ -11,10 +11,14 @@ nav:
 
 theme:
   name: material
-  theme:
   icon:
     logo: material/github
   features:
+    #- header.autohide
+    #- navigation.tabs
+    #- navigation.sections
+    - navigation.expand
+    - navigation.path
 
   palette:
     - scheme: default
