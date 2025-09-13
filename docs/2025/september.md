@@ -2,7 +2,7 @@
 icon: material/cat
 ---
 # :smile: 依旧是很累的九月
-![Image title](https://img5.qy0.ru/data/3146/08/0010.jpg){ width="750",height="500" }
+![生如朝露，去日苦多](https://img5.qy0.ru/data/3146/08/0010.jpg){ width="750",height="500" }
 /// caption
 ///
 
